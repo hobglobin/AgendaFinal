@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActContato</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_cad_contatos">Contato</string>
+    <string name="lblSalvar">Salvar</string>
+    <string name="lblAlterar">Alterar</string>
+    <string name="lblExcluir">Excluir</string>
+    <string name="app_label">Procurar</string>
+    <string name="search_hint">Digite a pesquisa</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="search_title">Busca</string>
+</resources>
